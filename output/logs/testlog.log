@@ -224,3 +224,38 @@
 2023-08-25 13:33:12,952 - logger_file -INFO - User wrote a headline and description for the order successfully
 2023-08-25 13:33:13,008 - logger_file -INFO - user clicked on the review button successfully
 2023-08-25 13:33:13,771 - logger_file -INFO - The review message was displayed successfully
+2023-08-25 13:42:37,210 - logger_file -INFO - The user is on tek retail website
+2023-08-25 13:42:37,287 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-25 13:42:37,407 - logger_file -INFO - The user successfully entred the email and password
+2023-08-25 13:42:37,456 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-25 13:42:37,808 - logger_file -INFO - The user is signed in successfully
+2023-08-25 13:42:37,870 - logger_file -INFO - user clicked on the orders section successfully
+2023-08-25 13:42:38,385 - logger_file -INFO - user clicked on first order in the list successfully
+2023-08-25 13:42:38,434 - logger_file -INFO - user clicked on review button successfully
+2023-08-25 13:43:42,965 - logger_file -INFO - The user is on tek retail website
+2023-08-25 13:43:43,046 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-25 13:43:43,179 - logger_file -INFO - The user successfully entred the email and password
+2023-08-25 13:43:43,234 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-25 13:43:43,581 - logger_file -INFO - The user is signed in successfully
+2023-08-25 13:43:43,647 - logger_file -INFO - user clicked on the orders section successfully
+2023-08-25 13:43:44,033 - logger_file -INFO - user clicked on first order in the list successfully
+2023-08-25 13:43:44,094 - logger_file -INFO - user clicked on review button successfully
+2023-08-25 13:43:44,220 - logger_file -INFO - User wrote a headline and description for the order successfully
+2023-08-25 13:43:44,271 - logger_file -INFO - user clicked on the review button successfully
+2023-08-25 13:43:45,089 - logger_file -INFO - The review message was displayed successfully
+2023-08-25 13:44:14,985 - logger_file -INFO - The user is on tek retail website
+2023-08-25 13:44:15,063 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-25 13:44:15,185 - logger_file -INFO - The user successfully entred the email and password
+2023-08-25 13:44:15,234 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-25 13:44:15,584 - logger_file -INFO - The user is signed in successfully
+2023-08-25 13:44:15,649 - logger_file -INFO - user clicked on the orders section successfully
+2023-08-25 13:44:16,225 - logger_file -INFO - user clicked on first order in the list successfully
+2023-08-25 13:44:16,278 - logger_file -INFO - user clicked on review button successfully
+2023-08-25 13:44:16,388 - logger_file -INFO - User wrote a headline and description for the order successfully
+2023-08-25 13:44:16,436 - logger_file -INFO - user clicked on the review button successfully
+2023-08-25 13:44:17,258 - logger_file -INFO - The review message was displayed successfully
+2023-08-25 13:48:28,214 - logger_file -INFO - The user is on tek retail website
+2023-08-25 13:48:28,289 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-25 13:48:28,409 - logger_file -INFO - The user successfully entred the email and password
+2023-08-25 13:48:28,464 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-25 13:48:28,820 - logger_file -INFO - The user is signed in successfully
