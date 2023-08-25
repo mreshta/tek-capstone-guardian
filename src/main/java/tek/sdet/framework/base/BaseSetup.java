@@ -1,19 +1,16 @@
 package tek.sdet.framework.base;
-
 import java.time.Duration;
 import java.util.HashMap;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
+import tek.sdet.framework.config.Browser;
+import tek.sdet.framework.config.ChromeBrowser;
+import tek.sdet.framework.config.ChromeHeadlessBrowser;
+import tek.sdet.framework.config.EdgeBrowser;
+import tek.sdet.framework.config.FireFoxBrowser;
 
-import tek.bdd.guardians.config.Browser;
-import tek.bdd.guardians.config.ChromeBrowser;
-import tek.bdd.guardians.config.ChromeHeadless;
-import tek.bdd.guardians.config.EdgeBrowser;
-import tek.bdd.guardians.config.FireFoxBrowser;
 import tek.sdet.framework.utilities.ReadYamlFiles;
-
 public class BaseSetup {
 
 	private static WebDriver webDriver;
@@ -54,7 +51,7 @@ public class BaseSetup {
 		switch(uiProperties.get("browser").toString().toLowerCase()) {
 		case "chrome":
 			if((boolean) uiProperties.get("headless")) {
-				browser = new ChromeHeadless();
+				browser = new ChromeHeadlessBrowser();
 			}else {
 				browser = new ChromeBrowser();
 			}
@@ -84,4 +81,3 @@ public class BaseSetup {
 			webDriver.quit();
 	}
 	}
-
